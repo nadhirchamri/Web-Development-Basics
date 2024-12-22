@@ -1,0 +1,28 @@
+1) What is web development, and why is it essential in the context of the internet? 
+
+- Web development is the process of building websites and web apps. It’s essential because it connects people, businesses, and ideas online, making information and services accessible to everyone.
+
+2) Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+
+-Yes, I’ve heard of HTML! It stands for HyperText Markup Language. Its primary purpose is to structure content on the web, like text, images, and links, so browsers can display it properly. Think of it as the backbone of every website.
+
+3) Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development
+
+-Yes, I’m familiar with CSS! It stands for Cascading Style Sheets and is used to style websites—things like colors, layouts, fonts, and spacing. While HTML structures the content, CSS makes it look good
+
+4) Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+
+- Yes, I’ve heard of JavaScript! It’s a programming language that adds interactivity to websites. It’s crucial because it lets you do things like update content dynamically, handle user actions (like clicks), and create features like animations or interactive forms. It makes websites come alive 
+
+5) Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+
+- Yes, I’m familiar with both!
+
+React is a JavaScript library used for building user interfaces, especially for single-page applications. It makes it easy to create interactive and dynamic components that update smoothly without reloading the whole page.
+Node.js is a JavaScript runtime that allows you to run JavaScript on the server side. It's used to build fast, scalable backend services and APIs, enabling full-stack JavaScript development.
+Together, React handles the front end, while Node.js powers the backend.
+
+6) Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+
+- Learning web development opens up a world of possibilities! By mastering HTML, CSS, JavaScript, React, and Node.js, I can create interactive, functional, and visually appealing websites. The goal is to build projects that not only solve real-world problems but also enhance my problem-solving skills. In the long run, I hope to work on exciting web apps, improve user experiences, and maybe even contribute to a growing tech community. Plus, the demand for web developers is huge, making it a valuable skill for career growth
+ 
